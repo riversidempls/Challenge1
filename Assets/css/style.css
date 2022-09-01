@@ -89,48 +89,28 @@ p {
 }
 /*Combined redundant class definitions that were identical
 ---------------------------*/
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/*Combined redundant class definitions that were identical
+-------------------*/
+
+.benefit-article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefit-article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 /*Combined three more redundant class definitions that were identical
 ---------------------------*/
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing
+.main-articles
  {
     margin-bottom: 20px;
     padding: 50px;
@@ -140,32 +120,16 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.main-articles img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.main-articles h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /* Footer
 ------------------------------- */
 .footer {
