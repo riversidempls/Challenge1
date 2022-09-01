@@ -9,6 +9,6 @@ Also, the HTML didn't include semantic tags or comments to help delinate the sec
 (https://riversidempls.github.io/Challenge1/)
 
 ## Screenshot
-![Screenshot of website](./Assets/screenshot.png)
+![Screenshot of website](./assets/images/screenshot.png)
 
 
